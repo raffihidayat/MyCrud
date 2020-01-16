@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonUpdate" type="id">update</item>
+    <item name="buttonDelete" type="id">delete</item>
+    <item name="editTextId" type="id">at</item>
+</resources>
